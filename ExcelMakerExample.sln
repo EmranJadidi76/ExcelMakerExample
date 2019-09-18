@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMakerExample", "ExcelMakerExample\ExcelMakerExample.csproj", "{0A94A064-BF89-4F5A-8A8C-F083CC82180A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{49BFB053-78B7-4471-86D5-F2F3F37FE355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A94A064-BF89-4F5A-8A8C-F083CC82180A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A94A064-BF89-4F5A-8A8C-F083CC82180A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A94A064-BF89-4F5A-8A8C-F083CC82180A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A94A064-BF89-4F5A-8A8C-F083CC82180A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BFB053-78B7-4471-86D5-F2F3F37FE355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BFB053-78B7-4471-86D5-F2F3F37FE355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BFB053-78B7-4471-86D5-F2F3F37FE355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BFB053-78B7-4471-86D5-F2F3F37FE355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04ABECE5-1CDE-42C9-8EDA-84D1762EC492}
+	EndGlobalSection
+EndGlobal

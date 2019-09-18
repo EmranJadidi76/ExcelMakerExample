@@ -1,0 +1,11 @@
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.json
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.dev.json
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Emi\Documents\Visual Studio 2017\Projects\1\ExcelMakerExample\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
