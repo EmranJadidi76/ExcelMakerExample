@@ -2,7 +2,7 @@
 Create Excel By Three Simple Steps
 
 <h2>First</h2>
-<p>You Must DownLoad  <a href="https://www.nuget.org/packages/ExcelMaker">ExcelMaker Nuget </P>
+<p>You Must Install  <a href="https://www.nuget.org/packages/ExcelMaker">ExcelMaker Nuget </P>
 <h2>Second</h2>
 <p>You Must AddService ExcelMaker in Startup</p>
 <hr/>
@@ -16,6 +16,6 @@ Create Excel By Three Simple Steps
 <p>And you must return File : <b>return File(file, _excelMaker.ContentType(), "MyFile.xlsx")</b></p>
 <h2>Third : Use Dynamic List</h2>
 <p>Use : <b>var dynamicList = new DynamicListViewModel()</b></p>
-<p>Add List : <b>dynamicList.AddList<Type>(YourList, WorkSheet Name, TableStyles);</b></p>
+<p>Add List : <b>dynamicList.AddList<@ListType>(YourList, WorkSheet Name, TableStyles);</b></p>
 <p>Use Method : <b>var file = _excelMaker.ExcelMakeByList(dynamicList.GetList());</b></p>
 <p>And you must return File : <b>return File(file, _excelMaker.ContentType(), "MyFile.xlsx")</b></p>
