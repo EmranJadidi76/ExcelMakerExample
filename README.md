@@ -2,7 +2,7 @@
 Create Excel By Three Simple Steps
 
 <h2>First</h2>
-<p>You Must DownLoad  <a href="https://www.nuget.org/packages/ExcelMaker">ExcelMaker Nuget </P>
+<p>You Must Install  <a href="https://www.nuget.org/packages/ExcelMaker">ExcelMaker Nuget </P>
 <h2>Second</h2>
 <p>You Must AddService ExcelMaker in Startup</p>
 <hr/>
