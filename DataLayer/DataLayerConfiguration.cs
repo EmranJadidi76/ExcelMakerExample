@@ -18,6 +18,7 @@ namespace DataLayer
 
             services.AddScoped<DatabaseContext>();
 
+            // Dapper Configuration
             services.AddScoped<IDbConnection>
                 (_ => new SqlConnection(configuration.GetConnectionString("MyConnection")));
         }
